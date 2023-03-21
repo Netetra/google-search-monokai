@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "google search monokai",
+    "description": "Googleの検索ページにmonokaiテーマを適用するChrome拡張",
+    "content_scripts": [
+        {
+            "js":"index.js",
+            "css":["monokai.css"],
+            "matches": [
+                "https://www.google.com/search*"
+            ]
+        }
+    ]
+}
