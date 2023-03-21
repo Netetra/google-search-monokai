@@ -1,0 +1,2 @@
+# google-search-monokai
+Googleの検索ページにmonokaiテーマを適用するChrome拡張
