@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+:root {
+    --background: #272822;
+    --black: #3a3b32;
+    --white: #e9dbdd;
+    --red: #fd6883;
+    --green: #adda78;
+    --yellow: #f9cc6c;
+    --blue: #a8a9eb;
+    --magenta: #f38d76;
+    --cyan: #85dacc;
+    --gray: #6f6f6f;
+}
+
+h3 {
+    color: var(--green) !important;
+}
+
+.HiHjCd a {
+    color: var(--blue) !important;
+}
+
+span,
+.yDYNvb {
+    color: var(--white) !important;
+}
+
+em {
+    color: var(--yellow) !important;
+}
+
+body,
+c-wiz,
+.Lj9fsd,
+.s8GCU,
+.yg51vc,
+.sfbg,
+.Ww4FFb,
+.appbar,
+.f6F9Be,
+.jZWadf,
+.Pvpvv {
+    background-color: var(--background) !important;
+}
+
+.RNNXgb,
+.k8XOCe,
+.o6juZc {
+    background-color: var(--black) !important;
+}

@@ -5,7 +5,6 @@
     "description": "Googleの検索ページにmonokaiテーマを適用するChrome拡張",
     "content_scripts": [
         {
-            "js":"index.js",
             "css":["monokai.css"],
             "matches": [
                 "https://www.google.com/search*"
